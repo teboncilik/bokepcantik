@@ -222,6 +222,7 @@ const jsonLd = {
                 Related Video {file.title}
             </h2>
             <SearchCardList query={file.title.split(" ")[2]} />
+<Script src="https://js.juicyads.com/jp.php?c=947403z2v256s2x2w264x294&u=http%3A%2F%2Fwww.juicyads.rocks"/>
         </div>
     );
 }
